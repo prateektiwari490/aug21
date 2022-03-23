@@ -1,8 +1,6 @@
 package designpatterns.decorator.icecream.addons;
 
 import designpatterns.decorator.icecream.IceCream;
-import designpatterns.decorator.icecream.cones.VanillaCone;
-
 import java.security.InvalidParameterException;
 
 public class VanillaScoop implements IceCream  {
