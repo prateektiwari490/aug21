@@ -17,7 +17,7 @@ public class VanillaScoop implements IceCream  {
 
     @Override
     public String getComposition() {
-        return this.iceCream.getComposition() + " Vanilla Scoops";
+        return this.iceCream.getComposition() + " Vanilla Scoop";
     }
 
     @Override
